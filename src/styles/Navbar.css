@@ -1,0 +1,23 @@
+.maroon-border {
+    height: 15px;
+    background-color: #5c0931;
+  }
+  
+  .nav-right {
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 13px;
+    background-color: #5c0931;
+
+  }
+  
+  .nav-right button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 32px;
+    color: #5c0931;
+    background-color: #f2f7f7;
+  }
+  

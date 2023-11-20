@@ -1,0 +1,46 @@
+.flight-search-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .flight-options {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .date-picker {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  
+  .custom-radio {
+    width: 25px;
+    height: 25px;
+    margin-right: 8px; 
+
+  }
+  .custom-font{
+    font-size: large;
+    display: contents;
+  }
+  .radio-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px; 
+  }
+
+  .autocomplete-input {
+    padding-left: 25px; 
+    width: 200px; 
+
+  }
+  .MuiAutocomplete-paper {
+    width: 200px; 
+  }
+

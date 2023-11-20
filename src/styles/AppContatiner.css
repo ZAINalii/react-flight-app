@@ -1,0 +1,21 @@
+.flight-search-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .flight-options {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .date-picker {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  
